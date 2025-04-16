@@ -1,0 +1,15 @@
+# For .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# For VS Code
+.vscode/
+.history/
+
+# Other common stuff
+*.log
+*.db
+.env
